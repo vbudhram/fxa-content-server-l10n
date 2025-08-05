@@ -1,0 +1,114 @@
+{
+  "shared_logo_alt_text": {
+    "message": "123Done logo",
+    "description": "logo alt text for shared"
+  },
+  "shared_email_from_name": {
+    "message": "123Donee",
+    "description": "email from name for shared"
+  },
+  "email_first_page_headline": {
+    "message": "Make Space for What Matters",
+    "description": "headline for email first page"
+  },
+  "email_first_page_description": {
+    "message": "Start your clutter-free to-do list with 123Done. Sign up with your email to create a Mozilla account and get started today.",
+    "description": "description for email first page"
+  },
+  "email_first_page_primary_button_text": {
+    "message": "Create My List",
+    "description": "primary button text for email first page"
+  },
+  "signup_set_password_page_headline": {
+    "message": "Create Your Password",
+    "description": "headline for signup set password page"
+  },
+  "signup_set_password_page_description": {
+    "message": "Keep your account private and secure. Set a password for your Mozilla account and get started with 123Done.",
+    "description": "description for signup set password page"
+  },
+  "signup_set_password_page_primary_button_text": {
+    "message": "Create account",
+    "description": "primary button text for signup set password page"
+  },
+  "signup_confirm_code_page_headline": {
+    "message": "Almost There",
+    "description": "headline for signup confirm code page"
+  },
+  "signup_confirm_code_page_description": {
+    "message": "Just one quick step. Enter the code from your email to activate your Mozilla account and unlock 123Done.",
+    "description": "description for signup confirm code page"
+  },
+  "signup_confirm_code_page_primary_button_text": {
+    "message": "Finish Setup",
+    "description": "primary button text for signup confirm code page"
+  },
+  "signup_confirmed_sync_page_headline": {
+    "message": "Sync confirmed",
+    "description": "headline for signup confirmed sync page"
+  },
+  "signup_confirmed_sync_page_description": {
+    "message": "Your account has been verified.",
+    "description": "description for signup confirmed sync page"
+  },
+  "signup_confirmed_sync_page_primary_button_text": {
+    "message": "Add another device",
+    "description": "primary button text for signup confirmed sync page"
+  },
+  "signin_page_headline": {
+    "message": "Enter your password",
+    "description": "headline for signin page"
+  },
+  "signin_page_description": {
+    "message": "for your Mozilla account",
+    "description": "description for signin page"
+  },
+  "signin_page_primary_button_text": {
+    "message": "Sign in",
+    "description": "primary button text for signin page"
+  },
+  "signin_token_code_page_primary_button_text": {
+    "message": "Continue",
+    "description": "primary button text for signin token code page"
+  },
+  "signin_unblock_code_page_headline": {
+    "message": "SigninUnblockCodePage",
+    "description": "headline for signin unblock code page"
+  },
+  "signin_unblock_code_page_description": {
+    "message": "Authorize this sign-in",
+    "description": "description for signin unblock code page"
+  },
+  "signin_unblock_code_page_primary_button_text": {
+    "message": "Authorize",
+    "description": "primary button text for signin unblock code page"
+  },
+  "new_device_login_email_headline": {
+    "message": "New device login",
+    "description": "headline for new device login email"
+  },
+  "new_device_login_email_description": {
+    "message": "You have signed into Firefox",
+    "description": "description for new device login email"
+  },
+  "verify_login_code_email_headline": {
+    "message": "Verify login code",
+    "description": "headline for verify login code email"
+  },
+  "verify_login_code_email_subject": {
+    "message": "Approve sign-in to Firefox",
+    "description": "subject for verify login code email"
+  },
+  "verify_short_code_email_headline": {
+    "message": "Complete setup",
+    "description": "headline for verify short code email"
+  },
+  "verify_short_code_email_subject": {
+    "message": "Confirmation code for 123Done",
+    "description": "subject for verify short code email"
+  },
+  "verify_short_code_email_description": {
+    "message": "Confirm your account to begin using 123Done",
+    "description": "description for verify short code email"
+  }
+}
