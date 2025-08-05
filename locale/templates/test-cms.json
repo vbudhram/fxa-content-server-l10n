@@ -1,0 +1,10 @@
+{
+  "desktopSync_shared_logoAltText": {
+    "message": "Firefox logo",
+    "description": "Logo alt text for Shared component"
+  },
+  "desktopSync_EmailFirstPage_headline": {
+    "message": "Continue to your Mozilla account",
+    "description": "Page headline text for Email first page"
+  }
+}
